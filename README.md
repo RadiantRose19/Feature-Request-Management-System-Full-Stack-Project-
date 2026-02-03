@@ -70,7 +70,7 @@ Frontend: Coming Soon
   role: String ("USER" | "ADMIN"),
 }
 
-# ✅Response Example:
+## ✅Response Example:
 ### Login Success:
 {
   "success": true,
@@ -101,10 +101,10 @@ Frontend: Coming Soon
 }
 
 How to Run Locally?
-• Clone the repo
-• cd backend 
-• node server.js
-• Create .env file with: 
+- Clone the repo
+- cd backend 
+- node server.js
+- Create .env file with: 
 PORT=5000
 MONGODB_URI=your_mongodb_uri_here
 JWT_SECRET=your_long_random_secret_here
