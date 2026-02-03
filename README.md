@@ -3,8 +3,8 @@
 This is a backend-focused implementation of a **Feature Request Management System** that is developed.
 
 The system allows:
-- Users to register, log in, submit feature requests, and view their own submissions
-- Admins to view all feature requests and manage their status/visibility
+- **Users** to register, log in, submit feature requests, and view their own submissions
+- **Admins** to view all feature requests and manage their status/visibility
 
 **Important business rule (enforced at backend):**  
 Feature requests with **duplicate titles** are not allowed.
@@ -17,8 +17,8 @@ This repository currently contains the **complete backend** code along with prop
 
 ## 🚀 Live Deployment
 
-Backend API: https://feature-request-management-system-4jo5.onrender.com
-Frontend: Coming Soon
+- Backend API: https://feature-request-management-system-4jo5.onrender.com
+- Frontend: Coming Soon
 
 ## Tech Stack
 ### Backend
