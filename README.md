@@ -17,8 +17,13 @@ This repository currently contains the **complete backend** code along with prop
 
 ## 🚀 Live Deployment
 
-- Backend API: https://feature-request-management-system-4jo5.onrender.com
-- Frontend: Coming Soon
+- *Backend API:* https://feature-request-management-system-4jo5.onrender.com
+This is an API-only backend. Use Postman or any HTTP client to test the endpoints.
+Quick test example — Login(Postman):  
+1) POST https://feature-request-management-system-4jo5.onrender.com/api/auth/login  
+2) Body in JSON format
+3) Send
+- *Frontend API:* Coming Soon
 
 ## Tech Stack
 ### Backend
